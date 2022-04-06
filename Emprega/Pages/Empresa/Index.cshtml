@@ -1,0 +1,108 @@
+﻿@page
+@model Emprega.Pages.Empresa.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Empresa[0].RazaoSocial)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Empresa[0].NomeFantasia)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Empresa[0].Cnpj)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Empresa[0].Cep)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Empresa[0].Endereco)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Empresa[0].Numero)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Empresa[0].Complemento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Empresa[0].Bairro)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Empresa[0].OcultarDados)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Empresa[0].Site)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Empresa[0].DataAbertura)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Empresa[0].IdAreaAtuacaoNavigation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Empresa[0].IdCidadeNavigation)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Empresa) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.RazaoSocial)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NomeFantasia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cnpj)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cep)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Endereco)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Numero)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Complemento)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Bairro)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OcultarDados)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Site)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DataAbertura)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdAreaAtuacaoNavigation.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdCidadeNavigation.Id)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
