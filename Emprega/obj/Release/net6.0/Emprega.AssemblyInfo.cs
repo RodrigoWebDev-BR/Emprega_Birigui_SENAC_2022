@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-Emprega-9E719717-45C8-4C56-BFEF-F944CA5F411C")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Emprega")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
