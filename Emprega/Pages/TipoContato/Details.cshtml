@@ -1,0 +1,25 @@
+﻿@page
+@model Emprega.Pages.TipoContato.DetailsModel
+
+@{
+    ViewData["Title"] = "Detalhes";
+}
+
+<h1>Detalhes</h1>
+
+<div>
+    <h4>Tipo de contato</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.TipoContato.Nome)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.TipoContato.Nome)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.TipoContato.Id">Editar</a> |
+    <a asp-page="./Index">Voltar para lista</a>
+</div>

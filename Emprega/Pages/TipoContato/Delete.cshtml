@@ -1,0 +1,28 @@
+﻿@page
+@model Emprega.Pages.TipoContato.DeleteModel
+
+@{
+    ViewData["Title"] = "Deletar";
+}
+
+<h1>Deletar</h1>
+
+<h3>Você tem certeza que deseja deletar o item?</h3>
+<div>
+    <h4>Tipo de contato</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.TipoContato.Nome)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.TipoContato.Nome)
+        </dd>
+    </dl>
+    
+    <form method="post">
+        <input type="hidden" asp-for="TipoContato.Id" />
+        <input type="submit" value="Deletar" class="btn btn-danger" /> |
+        <a asp-page="./Index">Voltar para lista</a>
+    </form>
+</div>

@@ -1,0 +1,34 @@
+﻿@page
+@model Emprega.Pages.TipoContato.CreateModel
+
+@{
+    ViewData["Title"] = "Adicionar";
+}
+
+<h1>Adicionar</h1>
+
+<h4>Tipo de Contato</h4>
+<hr />
+<div class="row mb-3">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+            <div class="form-group">
+                <label asp-for="TipoContato.Nome" class="control-label mb-3"></label>
+                <input asp-for="TipoContato.Nome" class="form-control mb-3" />
+                <span asp-validation-for="TipoContato.Nome" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Adicionar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Voltar para lista</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
