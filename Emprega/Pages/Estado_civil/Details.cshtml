@@ -1,0 +1,25 @@
+﻿@page
+@model Emprega.Pages.Estado_civil.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Detalhes</h1>
+
+<div>
+    <h4>EstadoCivil</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.EstadoCivil.Nome)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.EstadoCivil.Nome)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.EstadoCivil.Id">Editar</a> |
+    <a asp-page="./Index">Voltar para a lista</a>
+</div>
