@@ -9926,26 +9926,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dides\\.nuget\\packages\\": {}
+    "/Users/lucas/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dides\\Source\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\Emprega.csproj",
+      "projectUniqueName": "/Users/lucas/Projects/Emprega_Birigui_SENAC_2022/Emprega/Emprega.csproj",
       "projectName": "Emprega",
-      "projectPath": "C:\\Users\\dides\\Source\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\Emprega.csproj",
-      "packagesPath": "C:\\Users\\dides\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dides\\Source\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\obj\\",
+      "projectPath": "/Users/lucas/Projects/Emprega_Birigui_SENAC_2022/Emprega/Emprega.csproj",
+      "packagesPath": "/Users/lucas/.nuget/packages/",
+      "outputPath": "/Users/lucas/Projects/Emprega_Birigui_SENAC_2022/Emprega/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\dides\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/lucas/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -10013,7 +10011,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
       }
     }
   }
