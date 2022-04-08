@@ -1,0 +1,96 @@
+﻿@page
+@model Emprega.Pages.Vaga.IndexModel
+
+@{
+    ViewData["Title"] = "Vaga";
+}
+
+<h1>Vaga</h1>
+
+<p>
+    <a asp-page="Create">Adicionar</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Vaga[0].Titulo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Vaga[0].Salario)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Vaga[0].Pcd)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Vaga[0].DataPublicacao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Vaga[0].Quantidade)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Vaga[0].QuantidadeDisponivel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Vaga[0].Situacao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Vaga[0].TempoContrato)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Vaga[0].IdAreaAtuacaoNavigation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Vaga[0].IdEmpresaNavigation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Vaga[0].IdTipoContratoNavigation)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Vaga) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Titulo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Salario)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pcd)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DataPublicacao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quantidade)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.QuantidadeDisponivel)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Situacao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TempoContrato)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdAreaAtuacaoNavigation.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdEmpresaNavigation.NomeFantasia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdTipoContratoNavigation.Nome)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.Id">Editar</a> |
+                <a asp-page="./Details" asp-route-id="@item.Id">Detalhes</a> |
+                <a asp-page="./Delete" asp-route-id="@item.Id">Deletar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

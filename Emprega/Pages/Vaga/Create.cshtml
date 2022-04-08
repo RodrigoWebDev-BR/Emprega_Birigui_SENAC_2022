@@ -1,0 +1,98 @@
+﻿@page
+@model Emprega.Pages.Vaga.CreateModel
+
+@{
+    ViewData["Title"] = "Criar";
+}
+
+<h1>Criar</h1>
+
+<h4>Vaga</h4>
+<hr />
+
+<form method="post">
+    <div class="row">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="mb-3 col-md-6">
+            <label asp-for="Vaga.IdEmpresa" class="control-label"></label>
+            <select asp-for="Vaga.IdEmpresa" class="form-control" asp-items="ViewBag.IdEmpresa"></select>
+        </div>
+        <div class="mb-3 col-md-6">
+            <label asp-for="Vaga.Titulo" class="control-label"></label>
+            <input asp-for="Vaga.Titulo" class="form-control" />
+            <span asp-validation-for="Vaga.Titulo" class="text-danger"></span>
+        </div>
+        <div class="mb-3 col-md-2">
+            <label asp-for="Vaga.Salario" class="control-label"></label>
+            <input asp-for="Vaga.Salario" class="form-control" />
+            <span asp-validation-for="Vaga.Salario" class="text-danger"></span>
+        </div>
+        <div class="mb-3 col-md-2">
+            <label asp-for="Vaga.Pcd" class="control-label"></label>
+            <input asp-for="Vaga.Pcd" class="form-control" />
+            <span asp-validation-for="Vaga.Pcd" class="text-danger"></span>
+        </div>
+        <div class="mb-3 col-md-2">
+            <label asp-for="Vaga.DataPublicacao" class="control-label"></label>
+            <input asp-for="Vaga.DataPublicacao" class="form-control" />
+            <span asp-validation-for="Vaga.DataPublicacao" class="text-danger"></span>
+        </div>        
+        <div class="mb-3 col-md-2">
+            <label asp-for="Vaga.Quantidade" class="control-label"></label>
+            <input asp-for="Vaga.Quantidade" class="form-control" />
+            <span asp-validation-for="Vaga.Quantidade" class="text-danger"></span>
+        </div>
+        <div class="mb-3 col-md-2">
+            <label asp-for="Vaga.QuantidadeDisponivel" class="control-label"></label>
+            <input asp-for="Vaga.QuantidadeDisponivel" class="form-control" />
+            <span asp-validation-for="Vaga.QuantidadeDisponivel" class="text-danger"></span>
+        </div>
+        <div class="mb-3 col-md-2">
+            <label asp-for="Vaga.Situacao" class="control-label"></label>
+            <input asp-for="Vaga.Situacao" class="form-control" />
+            <span asp-validation-for="Vaga.Situacao" class="text-danger"></span>
+        </div>
+        <div class="mb-3 col-md-4">
+            <label asp-for="Vaga.TempoContrato" class="control-label"></label>
+            <input asp-for="Vaga.TempoContrato" class="form-control" />
+            <span asp-validation-for="Vaga.TempoContrato" class="text-danger"></span>
+        </div>
+        <div class="mb-3 col-md-4">
+            <label asp-for="Vaga.IdAreaAtuacao" class="control-label"></label>
+            <select asp-for="Vaga.IdAreaAtuacao" class="form-control" asp-items="ViewBag.IdAreaAtuacao"></select>
+        </div>
+        <div class="mb-3 col-md-4">
+            <label asp-for="Vaga.IdTipoContrato" class="control-label"></label>
+            <select asp-for="Vaga.IdTipoContrato" class="form-control" asp-items="ViewBag.IdTipoContrato"></select>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Vaga.Requisitos" class="control-label"></label>
+            <textarea asp-for="Vaga.Requisitos" class="form-control"></textarea>
+            <span asp-validation-for="Vaga.Requisitos" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Vaga.PrincipaisAtividades" class="control-label"></label>
+            <textarea asp-for="Vaga.PrincipaisAtividades" class="form-control"></textarea>
+            <span asp-validation-for="Vaga.PrincipaisAtividades" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Vaga.Descricao" class="control-label"></label>
+            <textarea asp-for="Vaga.Descricao" class="form-control"></textarea>
+            <span asp-validation-for="Vaga.Descricao" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <input type="submit" value="Criar" class="btn btn-primary" />
+        </div>
+    </div>
+</form>
+
+
+<div>
+    <a asp-page="Index">Voltar</a>
+</div>
+
+@section Scripts {
+    @{
+    await Html.RenderPartialAsync("_ValidationScriptsPartial");
+}
+}

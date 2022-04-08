@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace Emprega.Models
 {
@@ -23,10 +24,10 @@ namespace Emprega.Models
         public int? IdCidade { get; set; }
         public ulong OcultarDados { get; set; }
         public string? Site { get; set; }
-        public DateOnly DataAbertura { get; set; }
+        public DateTime DataAbertura { get; set; }      
         public int IdAreaAtuacao { get; set; }
 
-        public virtual AreaAtuacao IdAreaAtuacaoNavigation { get; set; } = null!;
+        public virtual AreaAtuacao? IdAreaAtuacaoNavigation { get; set; }
         public virtual Cidade? IdCidadeNavigation { get; set; }
         public virtual ICollection<ContatoEmpresa> ContatoEmpresa { get; set; }
         public virtual ICollection<Vaga> Vaga { get; set; }

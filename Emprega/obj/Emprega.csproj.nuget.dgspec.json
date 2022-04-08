@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lucas/Projects/Emprega_Birigui_SENAC_2022/Emprega/Emprega.csproj": {}
+    "C:\\Users\\sales\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\Emprega.csproj": {}
   },
   "projects": {
-    "/Users/lucas/Projects/Emprega_Birigui_SENAC_2022/Emprega/Emprega.csproj": {
+    "C:\\Users\\sales\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\Emprega.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lucas/Projects/Emprega_Birigui_SENAC_2022/Emprega/Emprega.csproj",
+        "projectUniqueName": "C:\\Users\\sales\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\Emprega.csproj",
         "projectName": "Emprega",
-        "projectPath": "/Users/lucas/Projects/Emprega_Birigui_SENAC_2022/Emprega/Emprega.csproj",
-        "packagesPath": "/Users/lucas/.nuget/packages/",
-        "outputPath": "/Users/lucas/Projects/Emprega_Birigui_SENAC_2022/Emprega/obj/",
+        "projectPath": "C:\\Users\\sales\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\Emprega.csproj",
+        "packagesPath": "C:\\Users\\sales\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sales\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/lucas/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\sales\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -87,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

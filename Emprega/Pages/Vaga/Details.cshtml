@@ -1,0 +1,103 @@
+﻿@page
+@model Emprega.Pages.Vaga.DetailsModel
+
+@{
+    ViewData["Title"] = "Detalhes";
+}
+
+<h1>Detalhes</h1>
+
+<div>
+    <h4>Vaga</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Vaga.Titulo)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Vaga.Titulo)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Vaga.Salario)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Vaga.Salario)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Vaga.Pcd)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Vaga.Pcd)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Vaga.DataPublicacao)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Vaga.DataPublicacao)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Vaga.Requisitos)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Vaga.Requisitos)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Vaga.PrincipaisAtividades)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Vaga.PrincipaisAtividades)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Vaga.Descricao)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Vaga.Descricao)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Vaga.Quantidade)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Vaga.Quantidade)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Vaga.QuantidadeDisponivel)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Vaga.QuantidadeDisponivel)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Vaga.Situacao)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Vaga.Situacao)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Vaga.TempoContrato)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Vaga.TempoContrato)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Vaga.IdAreaAtuacaoNavigation)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Vaga.IdAreaAtuacaoNavigation.Nome)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Vaga.IdEmpresaNavigation)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Vaga.IdEmpresaNavigation.NomeFantasia)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Vaga.IdTipoContratoNavigation)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Vaga.IdTipoContratoNavigation.Nome)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.Vaga.Id">Editar</a> |
+    <a asp-page="./Index">Voltar para lista</a>
+</div>

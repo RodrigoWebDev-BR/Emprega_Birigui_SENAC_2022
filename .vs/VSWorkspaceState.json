@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Emprega",
+    "\\Emprega\\Pages",
+    "\\Emprega\\Pages\\Empresa"
   ],
+  "SelectedNode": "\\Emprega\\Pages\\_ViewImports.cshtml",
   "PreviewInSolutionExplorer": false
 }
