@@ -1,0 +1,37 @@
+﻿@page
+@model Emprega.Pages.Inscricao_vaga.DetailsModel
+
+@{
+    ViewData["Title"] = "Detalhes da vaga";
+}
+
+<h1>Detalhes da vaga</h1>
+
+<div>
+    <h4>Detalhes da vaga inscrita</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.InscricaoVaga.IdCandidatoNavigation)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.InscricaoVaga.IdCandidatoNavigation.Id)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.InscricaoVaga.IdStatusNavigation)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.InscricaoVaga.IdStatusNavigation.Id)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.InscricaoVaga.IdVagaNavigation)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.InscricaoVaga.IdVagaNavigation.Id)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.InscricaoVaga.Id">Editar</a> |
+    <a asp-page="./Index">Voltar para a lista</a>
+</div>
