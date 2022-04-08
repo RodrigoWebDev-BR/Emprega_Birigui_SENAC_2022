@@ -42,7 +42,7 @@ namespace Emprega.Models
             if (!optionsBuilder.IsConfigured)
             {
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
-                optionsBuilder.UseMySql("server=localhost;port=3306;user=root;password=mikasa;database=emprega_birigui", Microsoft.EntityFrameworkCore.ServerVersion.Parse("10.6.5-mariadb"));
+                optionsBuilder.UseMySql("server=localhost;port=3306;user=root;password=Senac123;database=emprega_birigui", Microsoft.EntityFrameworkCore.ServerVersion.Parse("10.6.5-mariadb"));
             }
         }
 
@@ -144,12 +144,13 @@ namespace Emprega.Models
                     .HasColumnName("id_nivel_escolaridade");
 
                 entity.Property(e => e.Nome)
-                    .HasMaxLength(150)
+                    .HasMaxLength(100)
                     .HasColumnName("nome");
 
                 entity.Property(e => e.NotificacaoDevice)
                     .HasMaxLength(255)
-                    .HasColumnName("notificacao_device");
+                    .HasColumnName("notificacao_device")
+                    .HasDefaultValueSql("''");
 
                 entity.Property(e => e.Numero)
                     .HasMaxLength(10)
@@ -212,9 +213,9 @@ namespace Emprega.Models
             {
                 entity.ToTable("contato_candidato");
 
-                entity.HasIndex(e => e.IdCandidato, "FK_candidato_contato");
+                entity.HasIndex(e => e.IdCandidato, "FK_candidato");
 
-                entity.HasIndex(e => e.IdContato, "FK_contato_candidato");
+                entity.HasIndex(e => e.IdTipoContato, "FK_tipo_contato");
 
                 entity.Property(e => e.Id)
                     .HasColumnType("int(11)")
@@ -228,21 +229,21 @@ namespace Emprega.Models
                     .HasColumnType("int(11)")
                     .HasColumnName("id_candidato");
 
-                entity.Property(e => e.IdContato)
+                entity.Property(e => e.IdTipoContato)
                     .HasColumnType("int(11)")
-                    .HasColumnName("id_contato");
+                    .HasColumnName("id_tipo_contato");
 
                 entity.HasOne(d => d.IdCandidatoNavigation)
                     .WithMany(p => p.ContatoCandidato)
                     .HasForeignKey(d => d.IdCandidato)
                     .OnDelete(DeleteBehavior.ClientSetNull)
-                    .HasConstraintName("FK_candidato_contato");
+                    .HasConstraintName("FK_candidato");
 
-                entity.HasOne(d => d.IdContatoNavigation)
+                entity.HasOne(d => d.IdTipoContatoNavigation)
                     .WithMany(p => p.ContatoCandidato)
-                    .HasForeignKey(d => d.IdContato)
+                    .HasForeignKey(d => d.IdTipoContato)
                     .OnDelete(DeleteBehavior.ClientSetNull)
-                    .HasConstraintName("FK_contato_candidato");
+                    .HasConstraintName("FK_tipo_contato");
             });
 
             modelBuilder.Entity<ContatoEmpresa>(entity =>
@@ -251,7 +252,7 @@ namespace Emprega.Models
 
                 entity.HasIndex(e => e.IdEmpresa, "FK_contato_empresa");
 
-                entity.HasIndex(e => e.IdTipoContato, "FK_empresa_contato");
+                entity.HasIndex(e => e.IdTipoContato, "FK_empresa_tipo_contato");
 
                 entity.Property(e => e.Id)
                     .HasColumnType("int(11)")
@@ -279,14 +280,14 @@ namespace Emprega.Models
                     .WithMany(p => p.ContatoEmpresa)
                     .HasForeignKey(d => d.IdTipoContato)
                     .OnDelete(DeleteBehavior.ClientSetNull)
-                    .HasConstraintName("FK_empresa_contato");
+                    .HasConstraintName("FK_empresa_tipo_contato");
             });
 
             modelBuilder.Entity<EducacaoCandidato>(entity =>
             {
                 entity.ToTable("educacao_candidato");
 
-                entity.HasIndex(e => e.IdCandidato, "FK__id_candidato");
+                entity.HasIndex(e => e.IdCandidato, "FK_id_candidato2");
 
                 entity.Property(e => e.Id)
                     .HasColumnType("int(11)")
@@ -312,7 +313,7 @@ namespace Emprega.Models
                     .WithMany(p => p.EducacaoCandidato)
                     .HasForeignKey(d => d.IdCandidato)
                     .OnDelete(DeleteBehavior.ClientSetNull)
-                    .HasConstraintName("FK__id_candidato");
+                    .HasConstraintName("FK_id_candidato2");
             });
 
             modelBuilder.Entity<Empresa>(entity =>
@@ -408,7 +409,7 @@ namespace Emprega.Models
             {
                 entity.ToTable("experiencia_candidato");
 
-                entity.HasIndex(e => e.IdCandidato, "FK__candidato");
+                entity.HasIndex(e => e.IdCandidato, "FK_id_candidato");
 
                 entity.Property(e => e.Id)
                     .HasColumnType("int(11)")
@@ -438,14 +439,14 @@ namespace Emprega.Models
                     .WithMany(p => p.ExperienciaCandidato)
                     .HasForeignKey(d => d.IdCandidato)
                     .OnDelete(DeleteBehavior.ClientSetNull)
-                    .HasConstraintName("FK__candidato");
+                    .HasConstraintName("FK_id_candidato");
             });
 
             modelBuilder.Entity<HorarioTrabalho>(entity =>
             {
                 entity.ToTable("horario_trabalho");
 
-                entity.HasIndex(e => e.IdVaga, "FK_horario_trabalho_vaga");
+                entity.HasIndex(e => e.IdVaga, "FK_horario_vaga");
 
                 entity.Property(e => e.Id)
                     .HasColumnType("int(11)")
@@ -471,7 +472,7 @@ namespace Emprega.Models
                     .WithMany(p => p.HorarioTrabalho)
                     .HasForeignKey(d => d.IdVaga)
                     .OnDelete(DeleteBehavior.ClientSetNull)
-                    .HasConstraintName("FK_horario_trabalho_vaga");
+                    .HasConstraintName("FK_horario_vaga");
             });
 
             modelBuilder.Entity<Idioma>(entity =>
@@ -491,7 +492,7 @@ namespace Emprega.Models
             {
                 entity.ToTable("idioma_candidato");
 
-                entity.HasIndex(e => e.IdIdioma, "FK__idioma");
+                entity.HasIndex(e => e.IdIdioma, "FK_id_idioma");
 
                 entity.Property(e => e.Id)
                     .HasColumnType("int(11)")
@@ -509,7 +510,7 @@ namespace Emprega.Models
                     .WithMany(p => p.IdiomaCandidato)
                     .HasForeignKey(d => d.IdIdioma)
                     .OnDelete(DeleteBehavior.ClientSetNull)
-                    .HasConstraintName("FK__idioma");
+                    .HasConstraintName("FK_id_idioma");
             });
 
             modelBuilder.Entity<InscricaoStatus>(entity =>
@@ -543,6 +544,10 @@ namespace Emprega.Models
                 entity.Property(e => e.Id)
                     .HasColumnType("int(11)")
                     .HasColumnName("id");
+
+                entity.Property(e => e.Data)
+                    .HasColumnType("datetime")
+                    .HasColumnName("data");
 
                 entity.Property(e => e.IdCandidato)
                     .HasColumnType("int(11)")
@@ -678,7 +683,8 @@ namespace Emprega.Models
 
                 entity.Property(e => e.TempoContrato)
                     .HasMaxLength(20)
-                    .HasColumnName("tempo_contrato");
+                    .HasColumnName("tempo_contrato")
+                    .HasDefaultValueSql("''");
 
                 entity.Property(e => e.Titulo)
                     .HasMaxLength(30)
