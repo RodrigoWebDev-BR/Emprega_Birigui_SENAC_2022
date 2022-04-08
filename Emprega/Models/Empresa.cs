@@ -29,7 +29,7 @@ namespace Emprega.Models
         public ulong OcultarDados { get; set; }
         public string? Site { get; set; }
         [Display(Name = "Data de Abertura")]
-        public DateOnly DataAbertura { get; set; }
+        public DateTime DataAbertura { get; set; }
         [Display(Name = "Área de Atuação")]
         public int IdAreaAtuacao { get; set; }
 
