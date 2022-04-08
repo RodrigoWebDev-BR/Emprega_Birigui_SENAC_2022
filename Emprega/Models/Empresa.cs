@@ -23,7 +23,7 @@ namespace Emprega.Models
         public int? IdCidade { get; set; }
         public ulong OcultarDados { get; set; }
         public string? Site { get; set; }
-        public DateOnly DataAbertura { get; set; }
+        public DateTime DataAbertura { get; set; }
         public int IdAreaAtuacao { get; set; }
 
         public virtual AreaAtuacao IdAreaAtuacaoNavigation { get; set; } = null!;
