@@ -11,6 +11,7 @@ namespace Emprega.Models
         public int IdVaga { get; set; }
         [Display(Name = "Benefício")]
         public int IdBeneficio { get; set; }
+        public int IdVaga { get; set; }
 
         [Display(Name = "Benefício")]
         public virtual Beneficio IdBeneficioNavigation { get; set; } = null!;

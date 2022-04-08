@@ -1,0 +1,40 @@
+﻿@page
+@model Emprega.Pages.Inscricao_vaga.DeleteModel
+
+@{
+    ViewData["Title"] = "Apagar";
+}
+
+<h1>Apagar inscrição de vaga</h1>
+
+<h3>Você tem certeza que deseja apagar essa inscrição de vaga?</h3>
+<div>
+    <h4>Apagar inscricao de Vaga</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.InscricaoVaga.IdCandidatoNavigation)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.InscricaoVaga.IdCandidatoNavigation.Id)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.InscricaoVaga.IdStatusNavigation)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.InscricaoVaga.IdStatusNavigation.Id)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.InscricaoVaga.IdVagaNavigation)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.InscricaoVaga.IdVagaNavigation.Id)
+        </dd>
+    </dl>
+    
+    <form method="post">
+        <input type="hidden" asp-for="InscricaoVaga.Id" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-page="./Index">Voltar para a lista</a>
+    </form>
+</div>

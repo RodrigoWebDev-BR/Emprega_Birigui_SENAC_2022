@@ -36,7 +36,7 @@ namespace Emprega.Models
         public virtual AreaAtuacao? IdAreaAtuacaoNavigation { get; set; }
         public virtual Cidade? IdCidadeNavigation { get; set; }
         public virtual EstadoCivil? IdEstadoCivilNavigation { get; set; }
-        public virtual NivelEscolaridade? IdNivelEscolaridadeNavigation { get; set; } = null!;
+        public virtual NivelEscolaridade IdNivelEscolaridadeNavigation { get; set; } = null!;
         public virtual ICollection<ContatoCandidato> ContatoCandidato { get; set; }
         public virtual ICollection<EducacaoCandidato> EducacaoCandidato { get; set; }
         public virtual ICollection<ExperienciaCandidato> ExperienciaCandidato { get; set; }
