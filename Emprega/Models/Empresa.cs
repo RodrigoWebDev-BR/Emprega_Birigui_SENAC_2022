@@ -23,17 +23,17 @@ namespace Emprega.Models
         public string? Numero { get; set; }
         public string? Complemento { get; set; }
         public string? Bairro { get; set; }
-        [Display(Name = "Cidade")]
         public int? IdCidade { get; set; }
         [Display(Name = "Ocultar Dados")]
         public ulong OcultarDados { get; set; }
         public string? Site { get; set; }
         [Display(Name = "Data de Abertura")]
         public DateTime DataAbertura { get; set; }
-        [Display(Name = "Área de Atuação")]
         public int IdAreaAtuacao { get; set; }
 
+        [Display(Name = "Área de Atuação")]
         public virtual AreaAtuacao IdAreaAtuacaoNavigation { get; set; } = null!;
+        [Display(Name = "Cidade")]
         public virtual Cidade? IdCidadeNavigation { get; set; }
         public virtual ICollection<ContatoEmpresa> ContatoEmpresa { get; set; }
         public virtual ICollection<Vaga> Vaga { get; set; }
