@@ -1,0 +1,31 @@
+﻿@page
+@model Emprega.Pages.Vaga_Beneficio.DetailsModel
+
+@{
+    ViewData["Title"] = "";
+}
+
+<h1>Lista Vaga Benefício</h1>
+
+<div>
+    <h4>Vaga Beneficio</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.VagaBeneficio.IdBeneficioNavigation)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.VagaBeneficio.IdBeneficioNavigation.Id)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.VagaBeneficio.IdVagaNavigation)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.VagaBeneficio.IdVagaNavigation.Id)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.VagaBeneficio.Id">Edit</a> |
+    <a asp-page="./Index">Voltar para Vaga Benefício</a>
+</div>
