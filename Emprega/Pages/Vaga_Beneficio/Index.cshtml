@@ -1,0 +1,42 @@
+﻿@page
+@model Emprega.Pages.Vaga_Beneficio.IndexModel
+
+@{
+    ViewData["Title"] = "Vaga Benefício";
+}
+
+<h1>Vaga Benefício</h1>
+
+<p>
+    <a asp-page="Create">Cadastrar</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.VagaBeneficio[0].IdBeneficioNavigation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VagaBeneficio[0].IdVagaNavigation)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.VagaBeneficio) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdBeneficioNavigation.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdVagaNavigation.Id)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.Id">Editar</a> |
+                <a asp-page="./Details" asp-route-id="@item.Id">Voltar para Vaga Benefício</a> |
+                <a asp-page="./Delete" asp-route-id="@item.Id">Excluir</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
