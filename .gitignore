@@ -458,3 +458,4 @@ $RECYCLE.BIN/
 appsettings.json
 .vs/*
 .vs/Emprega/v17/.suo
+.obj/*
