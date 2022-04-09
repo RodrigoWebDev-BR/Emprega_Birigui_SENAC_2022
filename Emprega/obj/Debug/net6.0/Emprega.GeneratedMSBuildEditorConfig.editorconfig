@@ -175,6 +175,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Rodrigo Cruz/source/repos/Emprega_Birigui_SENAC_2022/Emprega/Pages/Area_Atuacao/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXJlYV9BdHVhY2FvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rodrigo Cruz/source/repos/Emprega_Birigui_SENAC_2022/Emprega/Pages/Area_Atuacao/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXJlYV9BdHVhY2FvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rodrigo Cruz/source/repos/Emprega_Birigui_SENAC_2022/Emprega/Pages/Area_Atuacao/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXJlYV9BdHVhY2FvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rodrigo Cruz/source/repos/Emprega_Birigui_SENAC_2022/Emprega/Pages/Area_Atuacao/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXJlYV9BdHVhY2FvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rodrigo Cruz/source/repos/Emprega_Birigui_SENAC_2022/Emprega/Pages/Area_Atuacao/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXJlYV9BdHVhY2FvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Rodrigo Cruz/source/repos/Emprega_Birigui_SENAC_2022/Emprega/Pages/Beneficio/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmVuZWZpY2lvXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -261,6 +281,26 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Rodrigo Cruz/source/repos/Emprega_Birigui_SENAC_2022/Emprega/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rodrigo Cruz/source/repos/Emprega_Birigui_SENAC_2022/Emprega/Pages/Inscricao_Status/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5zY3JpY2FvX1N0YXR1c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rodrigo Cruz/source/repos/Emprega_Birigui_SENAC_2022/Emprega/Pages/Inscricao_Status/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5zY3JpY2FvX1N0YXR1c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rodrigo Cruz/source/repos/Emprega_Birigui_SENAC_2022/Emprega/Pages/Inscricao_Status/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5zY3JpY2FvX1N0YXR1c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rodrigo Cruz/source/repos/Emprega_Birigui_SENAC_2022/Emprega/Pages/Inscricao_Status/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5zY3JpY2FvX1N0YXR1c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rodrigo Cruz/source/repos/Emprega_Birigui_SENAC_2022/Emprega/Pages/Inscricao_Status/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5zY3JpY2FvX1N0YXR1c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Rodrigo Cruz/source/repos/Emprega_Birigui_SENAC_2022/Emprega/Pages/Inscricao_vaga/Create.cshtml]

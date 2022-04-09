@@ -49,7 +49,7 @@ namespace Emprega.Models
         public int? IdAreaAtuacao { get; set; }
         [Display(Name = "Nível de Escolaridade")]
         public int IdNivelEscolaridade { get; set; }
-        [Display(Name = "Receber Notificações")]
+        [Display(Name = "Receber Notificações?")]
         public string? NotificacaoDevice { get; set; }
 
         [Display(Name = "Área Atuação")]

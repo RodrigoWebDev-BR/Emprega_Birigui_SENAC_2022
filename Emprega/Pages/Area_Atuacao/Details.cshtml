@@ -1,0 +1,25 @@
+﻿@page
+@model Emprega.Pages.Area_Atuacao.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Area de Atuação</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.AreaAtuacao.Nome)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.AreaAtuacao.Nome)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.AreaAtuacao.Id">Editar</a> |
+    <a asp-page="./Index">Voltar para Área de Atuação</a>
+</div>

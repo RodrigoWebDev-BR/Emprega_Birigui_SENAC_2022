@@ -1,0 +1,29 @@
+﻿@page
+@model Emprega.Pages.Area_Atuacao.DeleteModel
+
+@{
+    ViewData["Title"] = "Excluir";
+}
+
+<h1>Delete</h1>
+
+<h3>Deseja excluir essa área de atuação?</h3>
+
+<div>
+    <h4>Area de Atuação</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.AreaAtuacao.Nome)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.AreaAtuacao.Nome)
+        </dd>
+    </dl>
+    
+    <form method="post">
+        <input type="hidden" asp-for="AreaAtuacao.Id" />
+        <input type="submit" value="Excluir" class="btn btn-danger" /> |
+        <a asp-page="./Index">Voltar para Área de Atuação</a>
+    </form>
+</div>

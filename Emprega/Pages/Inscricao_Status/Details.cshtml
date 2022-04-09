@@ -1,0 +1,31 @@
+﻿@page
+@model Emprega.Pages.Inscricao_Status.DetailsModel
+
+@{
+    ViewData["Title"] = "Lista Status de Inscrição";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>InscricaoStatus</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.InscricaoStatus.Nome)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.InscricaoStatus.Nome)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.InscricaoStatus.Cor)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.InscricaoStatus.Cor)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.InscricaoStatus.Id">Editar</a> |
+    <a asp-page="./Index">Voltar para Status de Inscrição</a>
+</div>

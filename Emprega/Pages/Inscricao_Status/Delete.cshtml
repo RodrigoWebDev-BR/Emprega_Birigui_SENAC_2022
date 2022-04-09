@@ -1,0 +1,34 @@
+﻿@page
+@model Emprega.Pages.Inscricao_Status.DeleteModel
+
+@{
+    ViewData["Title"] = "Excluir";
+}
+
+<h1>Delete</h1>
+
+<h3>Deseja excluir esse status de inscrição?</h3>
+<div>
+    <h4>Status de Inscrição</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.InscricaoStatus.Nome)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.InscricaoStatus.Nome)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.InscricaoStatus.Cor)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.InscricaoStatus.Cor)
+        </dd>
+    </dl>
+    
+    <form method="post">
+        <input type="hidden" asp-for="InscricaoStatus.Id" />
+        <input type="submit" value="Excluir" class="btn btn-danger" /> |
+        <a asp-page="./Index">Voltar para Status de Inscrição</a>
+    </form>
+</div>
