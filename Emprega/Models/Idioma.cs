@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace Emprega.Models
 {
@@ -11,8 +12,10 @@ namespace Emprega.Models
         }
 
         public int Id { get; set; }
+        [Display(Name = "Idioma")]
         public string Nome { get; set; } = null!;
 
+        [Display(Name = "Idioma Candidato")]
         public virtual ICollection<IdiomaCandidato> IdiomaCandidato { get; set; }
     }
 }
