@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sales\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\Emprega.csproj": {}
+    "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\Emprega.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sales\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\Emprega.csproj": {
+    "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\Emprega.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sales\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\Emprega.csproj",
+        "projectUniqueName": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\Emprega.csproj",
         "projectName": "Emprega",
-        "projectPath": "C:\\Users\\sales\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\Emprega.csproj",
-        "packagesPath": "C:\\Users\\sales\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sales\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\obj\\",
+        "projectPath": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\Emprega.csproj",
+        "packagesPath": "C:\\Users\\Joao\\.nuget\\packages\\",
+        "outputPath": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sales\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Joao\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

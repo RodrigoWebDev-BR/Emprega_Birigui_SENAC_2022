@@ -1,0 +1,31 @@
+﻿@page
+@model Emprega.Pages.Idioma_candidato.DetailsModel
+
+@{
+    ViewData["Title"] = "Detalhes";
+}
+
+<h1>Detalhes</h1>
+
+<div>
+    <h4>Idioma Candidato</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.IdiomaCandidato.Nivel)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.IdiomaCandidato.Nivel)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.IdiomaCandidato.IdIdiomaNavigation)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.IdiomaCandidato.IdIdiomaNavigation.Id)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.IdiomaCandidato.Id">Edit</a> |
+    <a asp-page="./Index">Voltar para a lista</a>
+</div>
