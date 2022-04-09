@@ -1,0 +1,40 @@
+﻿@page
+@model Emprega.Pages.Idioma_candidato.EditModel
+
+@{
+    ViewData["Title"] = "Editar";
+}
+
+<h1>Editar</h1>
+
+<h4>Idioma Candidato</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="IdiomaCandidato.Id" />
+            <div class="form-group">
+                <label asp-for="IdiomaCandidato.IdIdioma" class="control-label"></label>
+                <select asp-for="IdiomaCandidato.IdIdioma" class="form-control" asp-items="ViewBag.IdIdioma"></select>
+                <span asp-validation-for="IdiomaCandidato.IdIdioma" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdiomaCandidato.Nivel" class="control-label"></label>
+                <input asp-for="IdiomaCandidato.Nivel" class="form-control" />
+                <span asp-validation-for="IdiomaCandidato.Nivel" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Salvar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Voltar para a lista</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

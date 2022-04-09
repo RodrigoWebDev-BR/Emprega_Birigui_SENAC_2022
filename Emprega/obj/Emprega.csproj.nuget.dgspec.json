@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\Emprega.csproj": {}
   },
   "projects": {
@@ -15,6 +16,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rodrigo Cruz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+    "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\Emprega.csproj": {}
+  },
+  "projects": {
+    "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\Emprega.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\Emprega.csproj",
+        "projectName": "Emprega",
+        "projectPath": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\Emprega.csproj",
+        "packagesPath": "C:\\Users\\Joao\\.nuget\\packages\\",
+        "outputPath": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Joao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

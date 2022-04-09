@@ -1,0 +1,25 @@
+﻿@page
+@model Emprega.Pages.Idioma.DetailsModel
+
+@{
+    ViewData["Title"] = "Detalhes";
+}
+
+<h1>Detalhes</h1>
+
+<div>
+    <h4>Idioma</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Idioma.Nome)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Idioma.Nome)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.Idioma.Id">Editar</a> |
+    <a asp-page="./Index">Voltar a lista</a>
+</div>

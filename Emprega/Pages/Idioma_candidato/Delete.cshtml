@@ -1,0 +1,34 @@
+﻿@page
+@model Emprega.Pages.Idioma_candidato.DeleteModel
+
+@{
+    ViewData["Title"] = "Apagar";
+}
+
+<h1>Apagar</h1>
+
+<h3>Tem certeza que você quer apagar esse idioma?</h3>
+<div>
+    <h4>Idioma Candidato</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.IdiomaCandidato.Nivel)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.IdiomaCandidato.Nivel)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.IdiomaCandidato.IdIdiomaNavigation)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.IdiomaCandidato.IdIdiomaNavigation.Id)
+        </dd>
+    </dl>
+    
+    <form method="post">
+        <input type="hidden" asp-for="IdiomaCandidato.Id" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-page="./Index">Voltar para a lista</a>
+    </form>
+</div>

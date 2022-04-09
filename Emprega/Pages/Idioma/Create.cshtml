@@ -1,0 +1,34 @@
+﻿@page
+@model Emprega.Pages.Idioma.CreateModel
+
+@{
+    ViewData["Title"] = "Adicionar";
+}
+
+<h1>Adicionar</h1>
+
+<h4>Idioma</h4>
+<hr />
+<div class="row mb-3">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="mb-3">
+                <label asp-for="Idioma.Nome" class="control-label"></label>
+                <input asp-for="Idioma.Nome" class="form-control" />
+                <span asp-validation-for="Idioma.Nome" class="text-danger"></span>
+            </div>
+            <div>
+                <input type="submit" value="Adicionar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Voltar a lista</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
