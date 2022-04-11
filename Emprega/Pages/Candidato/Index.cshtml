@@ -1,0 +1,138 @@
+﻿@page
+@model Emprega.Pages.Candidato.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Criar novo</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Candidato[0].Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Candidato[0].Rg)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Candidato[0].Cpf)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Candidato[0].Genero)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Candidato[0].DataNasc)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Candidato[0].OcultarIdade)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Candidato[0].EstaEmpregado)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Candidato[0].Cep)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Candidato[0].Endereco)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Candidato[0].Numero)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Candidato[0].Complemento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Candidato[0].Bairro)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Candidato[0].Senha)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Candidato[0].NotificacaoDevice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Candidato[0].IdAreaAtuacaoNavigation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Candidato[0].IdCidadeNavigation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Candidato[0].IdEstadoCivilNavigation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Candidato[0].IdNivelEscolaridadeNavigation)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Candidato) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Rg)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cpf)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Genero)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DataNasc)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OcultarIdade)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EstaEmpregado)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cep)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Endereco)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Numero)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Complemento)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Bairro)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Senha)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NotificacaoDevice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdAreaAtuacaoNavigation.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdCidadeNavigation.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdEstadoCivilNavigation.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdNivelEscolaridadeNavigation.Id)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.Id">Editar</a> |
+                <a asp-page="./Details" asp-route-id="@item.Id">Detalhes</a> |
+                <a asp-page="./Delete" asp-route-id="@item.Id">Deletar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,118 @@
+﻿@page
+@model Emprega.Pages.Candidato.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Criar</h1>
+
+<h4>Candidato</h4>
+<hr />
+<div class="row">
+
+    <form method="post">
+        <div class="row">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="col-4 mb-6">
+                <label asp-for="Candidato.Nome" class="control-label"></label>
+                <input asp-for="Candidato.Nome" class="form-control" />
+                <span asp-validation-for="Candidato.Nome" class="text-danger"></span>
+            </div>
+
+            <div class="col-4 mb-6">
+                <label asp-for="Candidato.Rg" class="control-label"></label>
+                <input asp-for="Candidato.Rg" class="form-control" />
+                <span asp-validation-for="Candidato.Rg" class="text-danger"></span>
+            </div>
+
+            <div class="col-4 mb-6">
+                <label asp-for="Candidato.Cpf" class="control-label"></label>
+                <input asp-for="Candidato.Cpf" class="form-control" />
+                <span asp-validation-for="Candidato.Cpf" class="text-danger"></span>
+            </div>
+            <div class="col-2 mb-6">
+                <label asp-for="Candidato.IdEstadoCivil" class="control-label"></label>
+                <select asp-for="Candidato.IdEstadoCivil" class="form-control" asp-items="ViewBag.IdEstadoCivil"></select>
+            </div>
+            <div class="col-6 mb-6">
+                <label asp-for="Candidato.Genero" class="control-label"></label>
+                <input asp-for="Candidato.Genero" class="form-control" />
+                <span asp-validation-for="Candidato.Genero" class="text-danger"></span>
+            </div>
+            <div class="col-4 mb-6">
+                <label asp-for="Candidato.DataNasc" class="control-label"></label>
+                <input asp-for="Candidato.DataNasc" class="form-control" />
+                <span asp-validation-for="Candidato.DataNasc" class="text-danger"></span>
+            </div>
+            <div class="col-4 mb-6">
+                <label asp-for="Candidato.Cep" class="control-label"></label>
+                <input asp-for="Candidato.Cep" class="form-control" />
+                <span asp-validation-for="Candidato.Cep" class="text-danger"></span>
+            </div>
+            <div class="col-8 mb-6">
+                <label asp-for="Candidato.Endereco" class="control-label"></label>
+                <input asp-for="Candidato.Endereco" class="form-control" />
+                <span asp-validation-for="Candidato.Endereco" class="text-danger"></span>
+            </div>
+            <div class="col-2 mb-6">
+                <label asp-for="Candidato.Numero" class="control-label"></label>
+                <input asp-for="Candidato.Numero" class="form-control" />
+                <span asp-validation-for="Candidato.Numero" class="text-danger"></span>
+            </div>
+            <div class="col-4 mb-6">
+                <label asp-for="Candidato.Complemento" class="control-label"></label>
+                <input asp-for="Candidato.Complemento" class="form-control" />
+                <span asp-validation-for="Candidato.Complemento" class="text-danger"></span>
+            </div>
+            <div class="col-6 mb-6">
+                <label asp-for="Candidato.Bairro" class="control-label"></label>
+                <input asp-for="Candidato.Bairro" class="form-control" />
+                <span asp-validation-for="Candidato.Bairro" class="text-danger"></span>
+            </div>
+            <div class="col-6 mb-6">
+                <label asp-for="Candidato.IdCidade" class="control-label"></label>
+                <select asp-for="Candidato.IdCidade" class="form-control" asp-items="ViewBag.IdCidade"></select>
+            </div>
+            <div class="col-6 mb-6">
+                <label asp-for="Candidato.IdAreaAtuacao" class="control-label"></label>
+                <select asp-for="Candidato.IdAreaAtuacao" class="form-control" asp-items="ViewBag.IdAreaAtuacao"></select>
+            </div>
+            <div class="col-4 mb-6">
+                <label asp-for="Candidato.IdNivelEscolaridade" class="control-label"></label>
+                <select asp-for="Candidato.IdNivelEscolaridade" class="form-control" asp-items="ViewBag.IdNivelEscolaridade"></select>
+            </div>
+            <div class="col-8 mb-6">
+                <label asp-for="Candidato.Senha" class="control-label"></label>
+                <input asp-for="Candidato.Senha" class="form-control" />
+                <span asp-validation-for="Candidato.Senha" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Candidato.OcultarIdade" class="control-label"></label>
+                <input asp-for="Candidato.OcultarIdade" class="form-control" />
+                <span asp-validation-for="Candidato.OcultarIdade" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Candidato.EstaEmpregado" class="control-label"></label>
+                <input asp-for="Candidato.EstaEmpregado" class="form-control" />
+                <span asp-validation-for="Candidato.EstaEmpregado" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Criar" class="btn btn-primary mt-3" />
+            </div>
+        </div><!--row-->
+    </form>
+
+
+</div>
+
+<div>
+    <a asp-page="Index">Voltar para a lista</a>
+</div>
+
+@section Scripts {
+    @{
+    await Html.RenderPartialAsync("_ValidationScriptsPartial");
+}
+}

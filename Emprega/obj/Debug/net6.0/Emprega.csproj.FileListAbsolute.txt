@@ -271,3 +271,15 @@ E:\Repos\Emprega_Birigui_SENAC_2022\Emprega\obj\Debug\net6.0\Emprega.dll
 E:\Repos\Emprega_Birigui_SENAC_2022\Emprega\obj\Debug\net6.0\ref\Emprega.dll
 E:\Repos\Emprega_Birigui_SENAC_2022\Emprega\obj\Debug\net6.0\Emprega.pdb
 E:\Repos\Emprega_Birigui_SENAC_2022\Emprega\obj\Debug\net6.0\Emprega.genruntimeconfig.cache
+C:\Users\dides\Source\Repos\Emprega_Birigui_SENAC_2022\Emprega\obj\Debug\net6.0\Emprega.csproj.AssemblyReference.cache
+C:\Users\dides\Source\Repos\Emprega_Birigui_SENAC_2022\Emprega\obj\Debug\net6.0\Emprega.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dides\Source\Repos\Emprega_Birigui_SENAC_2022\Emprega\obj\Debug\net6.0\Emprega.AssemblyInfoInputs.cache
+C:\Users\dides\Source\Repos\Emprega_Birigui_SENAC_2022\Emprega\obj\Debug\net6.0\Emprega.AssemblyInfo.cs
+C:\Users\dides\Source\Repos\Emprega_Birigui_SENAC_2022\Emprega\obj\Debug\net6.0\Emprega.csproj.CoreCompileInputs.cache
+C:\Users\dides\Source\Repos\Emprega_Birigui_SENAC_2022\Emprega\obj\Debug\net6.0\Emprega.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dides\Source\Repos\Emprega_Birigui_SENAC_2022\Emprega\obj\Debug\net6.0\Emprega.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dides\Source\Repos\Emprega_Birigui_SENAC_2022\Emprega\obj\Debug\net6.0\Emprega.RazorAssemblyInfo.cache
+C:\Users\dides\Source\Repos\Emprega_Birigui_SENAC_2022\Emprega\obj\Debug\net6.0\Emprega.RazorAssemblyInfo.cs
+C:\Users\dides\Source\Repos\Emprega_Birigui_SENAC_2022\Emprega\obj\Debug\net6.0\Emprega.dll
+C:\Users\dides\Source\Repos\Emprega_Birigui_SENAC_2022\Emprega\obj\Debug\net6.0\ref\Emprega.dll
+C:\Users\dides\Source\Repos\Emprega_Birigui_SENAC_2022\Emprega\obj\Debug\net6.0\Emprega.pdb
