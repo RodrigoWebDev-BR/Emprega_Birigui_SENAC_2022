@@ -459,3 +459,11 @@ appsettings.json
 .vs/*
 .vs/Emprega/v17/.suo
 .obj/*
+Emprega/bin/Debug/net6.0/Emprega.dll
+.vs/Emprega/v17/.suo
+Emprega/bin/Debug/net6.0/Emprega.dll
+Emprega/bin/Debug/net6.0/Emprega.pdb
+Emprega/obj/Debug/net6.0/Emprega.dll
+Emprega/obj/Debug/net6.0/Emprega.pdb
+Emprega/obj/staticwebassets.pack.sentinel
+Emprega/Pages/Idioma_candidato/Details.cshtml
