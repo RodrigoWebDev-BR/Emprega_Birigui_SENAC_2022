@@ -1,14 +1,6 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "Hash": "BJHN4j2EJfm7qbeFqnm0t8f2IhgsYw711XG9SuTZJCM=",
-=======
-<<<<<<< HEAD
-  "Hash": "Om/Un3mH4SHlw4sNUwK6il8oyEBHrrTh8y3xSQnXF60=",
-=======
   "Hash": "ofuWGhkaMB9+EVe3YO7Y7dbz2msgrJTrzwdOrRj2IvI=",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
   "Source": "Emprega",
   "BasePath": "_content/Emprega",
   "Mode": "Default",
@@ -18,35 +10,17 @@
     {
       "Name": "Emprega\\wwwroot",
       "Source": "Emprega",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\css\\site.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\css\\site.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "Identity": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\css\\site.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -57,24 +31,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\css\\site.css"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\favicon.ico",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\css\\site.css"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\favicon.ico",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\css\\site.css"
     },
     {
@@ -82,8 +38,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -94,24 +48,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\favicon.ico"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\js\\site.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\favicon.ico"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\js\\site.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\favicon.ico"
     },
     {
@@ -119,8 +55,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -131,24 +65,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\js\\site.js"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\js\\site.js"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\js\\site.js"
     },
     {
@@ -156,8 +72,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -168,24 +82,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
@@ -193,8 +89,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -205,24 +99,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
@@ -230,8 +106,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -242,24 +116,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
@@ -267,8 +123,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -279,24 +133,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
@@ -304,8 +140,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -316,24 +150,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
@@ -341,8 +157,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -353,24 +167,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
@@ -378,8 +174,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -390,24 +184,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
@@ -415,8 +191,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -427,24 +201,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
@@ -452,8 +208,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -464,24 +218,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
@@ -489,8 +225,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -501,24 +235,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
@@ -526,8 +242,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -538,24 +252,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
@@ -563,8 +259,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -575,24 +269,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
@@ -600,8 +276,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -612,24 +286,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
@@ -637,8 +293,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -649,24 +303,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
@@ -674,8 +310,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -686,24 +320,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
@@ -711,8 +327,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -723,24 +337,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
@@ -748,8 +344,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -760,24 +354,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
@@ -785,8 +361,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -797,24 +371,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
@@ -822,8 +378,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -834,24 +388,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
@@ -859,8 +395,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -871,24 +405,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
@@ -896,8 +412,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -908,24 +422,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
@@ -933,8 +429,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -945,24 +439,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
@@ -970,8 +446,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -982,24 +456,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
@@ -1007,8 +463,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1019,24 +473,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
@@ -1044,8 +480,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1056,24 +490,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
@@ -1081,8 +497,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1093,24 +507,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
@@ -1118,8 +514,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1130,24 +524,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
@@ -1155,8 +531,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1167,24 +541,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
@@ -1192,8 +548,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1204,24 +558,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
@@ -1229,8 +565,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1241,24 +575,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
@@ -1266,8 +582,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1278,24 +592,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
@@ -1303,8 +599,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1315,24 +609,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
@@ -1340,8 +616,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1352,24 +626,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
@@ -1377,8 +633,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1389,24 +643,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
@@ -1414,8 +650,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1426,24 +660,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
@@ -1451,8 +667,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1463,24 +677,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
@@ -1488,8 +684,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1500,24 +694,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
@@ -1525,8 +701,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1537,24 +711,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
@@ -1562,8 +718,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1574,24 +728,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
@@ -1599,8 +735,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1611,24 +745,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
@@ -1636,8 +752,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1648,24 +762,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
@@ -1673,8 +769,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1685,24 +779,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
@@ -1710,8 +786,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1722,24 +796,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
@@ -1747,8 +803,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1759,24 +813,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
@@ -1784,8 +820,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1796,24 +830,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE"
     },
     {
@@ -1821,8 +837,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1833,24 +847,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
     },
     {
@@ -1858,8 +854,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1870,24 +864,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
@@ -1895,8 +871,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1907,24 +881,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
@@ -1932,8 +888,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1944,24 +898,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
     },
     {
@@ -1969,8 +905,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1981,24 +915,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
@@ -2006,8 +922,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2018,24 +932,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
@@ -2043,8 +939,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2055,24 +949,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
@@ -2080,8 +956,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2092,24 +966,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
@@ -2117,8 +973,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2129,24 +983,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md"
     },
     {
@@ -2154,8 +990,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2166,24 +1000,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
@@ -2191,8 +1007,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2203,24 +1017,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
@@ -2228,8 +1024,6 @@
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\",
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2240,27 +1034,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Emprega.styles.css",
-      "SourceId": "Emprega",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\sales\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
-=======
       "OriginalItemSpec": "C:\\Users\\Joao\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.3\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
->>>>>>> c08c207dff4fa8c95b5ffebaaba110204e015c48
     },
     {
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Emprega.styles.css",
       "SourceId": "Emprega",
       "SourceType": "Computed",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "Emprega.styles.css",
       "AssetKind": "All",
@@ -2271,15 +1051,6 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Emprega.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Emprega.bundle.scp.css",
-      "SourceId": "Emprega",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
-=======
       "OriginalItemSpec": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Emprega.styles.css"
     },
     {
@@ -2287,7 +1058,6 @@
       "SourceId": "Emprega",
       "SourceType": "Computed",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "Emprega.bundle.scp.css",
       "AssetKind": "All",
@@ -2298,15 +1068,6 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Emprega.bundle.scp.css"
-    },
-    {
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\css\\site.css",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "OriginalItemSpec": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Emprega.bundle.scp.css"
     },
     {
@@ -2314,7 +1075,6 @@
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -2328,17 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\favicon.ico",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\favicon.ico",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -2352,17 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\js\\site.js",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\js\\site.js",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -2376,17 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -2400,17 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2424,17 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2448,17 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2472,17 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -2496,17 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -2520,17 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -2544,17 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -2568,17 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -2592,17 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -2616,17 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -2640,17 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2664,17 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -2688,17 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -2712,17 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2736,17 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2760,17 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2784,17 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2808,17 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2832,17 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2856,17 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2880,17 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2904,17 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2928,17 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2952,17 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2976,17 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -3000,17 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -3024,17 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -3048,17 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -3072,17 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -3096,17 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -3120,17 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -3144,17 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -3168,17 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -3192,17 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -3216,17 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -3240,17 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -3264,17 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -3288,17 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -3312,17 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -3336,17 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -3360,17 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -3384,17 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -3408,17 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -3432,17 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -3456,17 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -3480,17 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -3504,17 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -3528,17 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -3552,17 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -3576,17 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -3600,17 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -3624,17 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -3648,17 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -3672,17 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -3696,17 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -3720,17 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "SourceId": "Emprega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
-=======
       "Identity": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Emprega",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\wwwroot\\",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
       "BasePath": "_content/Emprega",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

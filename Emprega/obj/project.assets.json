@@ -9926,25 +9926,11 @@
     ]
   },
   "packageFolders": {
-<<<<<<< HEAD
-    "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\": {}
-=======
     "C:\\Users\\Joao\\.nuget\\packages\\": {}
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\Emprega.csproj",
-      "projectName": "Emprega",
-      "projectPath": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\Emprega.csproj",
-      "packagesPath": "C:\\Users\\Rodrigo Cruz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rodrigo Cruz\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\obj\\",
-      "projectStyle": "PackageReference",
-      "configFilePaths": [
-        "C:\\Users\\Rodrigo Cruz\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
       "projectUniqueName": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\Emprega.csproj",
       "projectName": "Emprega",
       "projectPath": "E:\\Repos\\Emprega_Birigui_SENAC_2022\\Emprega\\Emprega.csproj",
@@ -9953,7 +9939,6 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Joao\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> 17ef12e90dc9d70226800df98d191402cf5d8388
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
