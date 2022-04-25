@@ -21,7 +21,7 @@ namespace Emprega.Models
         public string Rg { get; set; } = null!;
         [Display(Name = "CPF")]
         public string Cpf { get; set; } = null!;
-        [Display(Name = "Estado Civil")]
+        [Display(Name = "Estado Cívil")]
         public int? IdEstadoCivil { get; set; }
         [Display(Name = "Gênero")]
         public string? Genero { get; set; }
@@ -56,7 +56,7 @@ namespace Emprega.Models
         public virtual AreaAtuacao? IdAreaAtuacaoNavigation { get; set; }
         [Display(Name = "Cidade")]
         public virtual Cidade? IdCidadeNavigation { get; set; }
-        [Display(Name = "Estado Civil")]
+        [Display(Name = "Estado Cívil")]
         public virtual EstadoCivil? IdEstadoCivilNavigation { get; set; }
         [Display(Name = "Nível Escolaridade")]
         public virtual NivelEscolaridade IdNivelEscolaridadeNavigation { get; set; } = null!;

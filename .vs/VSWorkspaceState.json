@@ -2,15 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\Emprega",
-<<<<<<< HEAD
-    "\\Emprega\\Pages",
-    "\\Emprega\\Pages\\Empresa"
-  ],
-  "SelectedNode": "\\Emprega\\Pages\\_ViewImports.cshtml",
-=======
     "\\Emprega\\Models"
   ],
-  "SelectedNode": "\\Emprega\\Models\\Empresa.cs",
->>>>>>> e76656bf8b0c643660a8561789a00012767923d0
+  "SelectedNode": "\\Emprega\\Models\\Candidato.cs",
   "PreviewInSolutionExplorer": false
 }

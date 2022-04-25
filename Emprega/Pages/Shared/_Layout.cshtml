@@ -25,6 +25,9 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Privacidade</a>
                         </li>
+                        <li>
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Area_Atuacao/Index">Area atuação</a>
+                        </li>
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-page="/Beneficio/Index">Benefício</a>
                         </li>
@@ -37,15 +40,26 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-page="/Estado_civil/Index">Estado civil</a>
                         </li>
+
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/TipoContato/Index">Tipo contato</a>
+                        <div class="dropdown">
+                            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                ...
+                            </button>
+                            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                <a class="dropdown-item" asp-area="" asp-page="/Inscricao_vaga/Index">Inscrição vaga</a>
+                                <a class="dropdown-item" asp-area="" asp-page="/Vaga_beneficio/Index">Vaga benefíco</a>
+                                <a class="dropdown-item" asp-area="" asp-page="/TipoContato/Index">Tipo contato</a>
+                                <a class="dropdown-item" asp-area="" asp-page="/Vaga/Index">Vaga</a>
+                                <a class="dropdown-item" asp-area="" asp-page="/Inscricao_Status/Index">Inscrição status</a>
+                                <a class="dropdown-item" asp-area="" asp-page="/Candidato/Index">Candidato</a>
+                                <a class="dropdown-item" asp-area="" asp-page="/Idioma/Index">Idioma</a>
+                                <a class="dropdown-item" asp-area="" asp-page="/Idioma_candidato/Index">Idioma candidato</a>
+                            </div>
+                        </div>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Vaga_beneficio/Index">Vaga benefíco</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Inscricao_vaga/Index">Inscrição vaga</a>
-                        </li>
+ 
+
                     </ul>
                     <partial name="_LoginPartial" />
                 </div>
@@ -64,10 +78,9 @@
         </div>
     </footer>
 
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
+ <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+ <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
-    @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>
