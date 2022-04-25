@@ -545,3 +545,4 @@ C:\Users\dides\Source\Repos\Emprega_Birigui_SENAC_2022\Emprega\obj\Debug\net6.0\
 C:\Users\dides\Source\Repos\Emprega_Birigui_SENAC_2022\Emprega\obj\Debug\net6.0\scopedcss\projectbundle\Emprega.bundle.scp.css
 C:\Users\dides\Source\Repos\Emprega_Birigui_SENAC_2022\Emprega\obj\Debug\net6.0\Emprega.csproj.CopyComplete
 C:\Users\dides\Source\Repos\Emprega_Birigui_SENAC_2022\Emprega\obj\Debug\net6.0\Emprega.genruntimeconfig.cache
+E:\Repos\Emprega_Birigui_SENAC_2022\Emprega\obj\Debug\net6.0\Emprega.csproj.AssemblyReference.cache
