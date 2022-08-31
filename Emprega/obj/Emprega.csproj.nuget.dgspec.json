@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dides\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\Emprega.csproj": {}
+    "C:\\Users\\ACER\\Documents\\GitHub\\Emprega_Birigui_SENAC_2022\\Emprega\\Emprega.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dides\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\Emprega.csproj": {
+    "C:\\Users\\ACER\\Documents\\GitHub\\Emprega_Birigui_SENAC_2022\\Emprega\\Emprega.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dides\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\Emprega.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\Documents\\GitHub\\Emprega_Birigui_SENAC_2022\\Emprega\\Emprega.csproj",
         "projectName": "Emprega",
-        "projectPath": "C:\\Users\\dides\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\Emprega.csproj",
-        "packagesPath": "C:\\Users\\dides\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dides\\source\\repos\\Emprega_Birigui_SENAC_2022\\Emprega\\obj\\",
+        "projectPath": "C:\\Users\\ACER\\Documents\\GitHub\\Emprega_Birigui_SENAC_2022\\Emprega\\Emprega.csproj",
+        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ACER\\Documents\\GitHub\\Emprega_Birigui_SENAC_2022\\Emprega\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\dides\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -89,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
